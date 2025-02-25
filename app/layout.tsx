@@ -6,7 +6,7 @@ import { Nav } from "@/components/Nav"
 import { cn } from "@/utils"
 
 export const metadata: Metadata = {
-  title: "ADHD Med Trainer",
+  title: "ADHD Med Trainer!",
   description: "Sophia Minds - ADHD Med Trainer",
 }
 
